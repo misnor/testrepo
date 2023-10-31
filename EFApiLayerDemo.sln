@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFApiLayerDemo", "EFApiLayerDemo\EFApiLayerDemo.csproj", "{BC19B2E0-6FCC-4A7E-8CB4-21AC6B4E7EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC19B2E0-6FCC-4A7E-8CB4-21AC6B4E7EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC19B2E0-6FCC-4A7E-8CB4-21AC6B4E7EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC19B2E0-6FCC-4A7E-8CB4-21AC6B4E7EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC19B2E0-6FCC-4A7E-8CB4-21AC6B4E7EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
